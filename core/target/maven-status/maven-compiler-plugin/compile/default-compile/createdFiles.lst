@@ -1,0 +1,16 @@
+com\appsdeveloperblog\estore\core\events\ProductReservationCancelledEvent$ProductReservationCancelledEventBuilder.class
+com\appsdeveloperblog\estore\core\query\FetchUserPaymentDetailsQuery.class
+com\appsdeveloperblog\estore\core\events\ProductReservedEvent.class
+com\appsdeveloperblog\estore\core\commands\CancelProductReservationCommand.class
+com\appsdeveloperblog\estore\core\model\User$UserBuilder.class
+com\appsdeveloperblog\estore\core\events\ProductReservationCancelledEvent.class
+com\appsdeveloperblog\estore\core\model\PaymentDetails$PaymentDetailsBuilder.class
+com\appsdeveloperblog\estore\core\commands\ProcessPaymentCommand.class
+com\appsdeveloperblog\estore\core\events\PaymentProcessedEvent.class
+com\appsdeveloperblog\estore\core\model\User.class
+com\appsdeveloperblog\estore\core\model\PaymentDetails.class
+com\appsdeveloperblog\estore\core\commands\ProcessPaymentCommand$ProcessPaymentCommandBuilder.class
+com\appsdeveloperblog\estore\core\events\ProductReservedEvent$ProductReservedEventBuilder.class
+com\appsdeveloperblog\estore\core\commands\CancelProductReservationCommand$CancelProductReservationCommandBuilder.class
+com\appsdeveloperblog\estore\core\commands\ReserveProductCommand$ReserveProductCommandBuilder.class
+com\appsdeveloperblog\estore\core\commands\ReserveProductCommand.class
